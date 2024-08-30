@@ -15,3 +15,16 @@ Este projeto é uma landing page desenvolvida como parte do módulo 1 do curso d
 - Design responsivo
 - Formulário de contato com integração ao Sheet Monkey
 - Animação com CSS
+
+
+## Instalação e Uso
+
+Para rodar o projeto localmente:
+
+### Clone o repositório
+git clone https://github.com/TataFaria/projeto-desafio1.git
+
+###  Navegue até o diretório do projeto
+cd projeto-desafio1
+
+###  Abra o arquivo index.html no seu navegador preferido
